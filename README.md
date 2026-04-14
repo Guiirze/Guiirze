@@ -2,9 +2,9 @@
 
 **Desenvolvedor**
 
-Me chamo Guilherme, tenho 21 anos e sou natural do Rio de Janeiro. Atualmente, estou cursando:
+Me chamo Guilherme, tenho 22 anos e sou natural do Rio de Janeiro. Atualmente, estou cursando:
 
-📚 Engenharia de Software - Unicesumar (3º Período)  
+📚 Engenharia de Software - Unicesumar (4º Período)  
 
 🧠 Java (+POO/SQL/JDBC/JSON/LOGGING) - Udemy
 
